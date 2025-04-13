@@ -1,1 +1,1 @@
-Hello! This is HEADILINE
+Hello! This is HEADLINE
